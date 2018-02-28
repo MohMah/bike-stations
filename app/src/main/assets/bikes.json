@@ -1,0 +1,715 @@
+[ {
+  "nbbikes" : "10",
+  "featurename" : "Harbour Town - Docklands Dve - Docklands",
+  "terminalname" : "60000",
+  "uploaddate" : 1519845303,
+  "nbemptydoc" : "13",
+  "coordinates" : {
+    "latitude" : "-37.814022",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.939521"
+  },
+  "id" : "2"
+}
+, {
+  "nbbikes" : "13",
+  "featurename" : "Federation Square - Flinders St / Swanston St - City",
+  "terminalname" : "60001",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "14",
+  "coordinates" : {
+    "latitude" : "-37.817523",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.967814"
+  },
+  "id" : "4"
+}
+, {
+  "nbbikes" : "0",
+  "featurename" : "Plum Garland Reserve - Beaconsfield Pde - Albert Park",
+  "terminalname" : "60002",
+  "uploaddate" : 1454589005,
+  "nbemptydoc" : "3",
+  "coordinates" : {
+    "latitude" : "-37.84782",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.948196"
+  },
+  "id" : "5"
+}
+, {
+  "nbbikes" : "6",
+  "featurename" : "State Library - Swanston St / Little Lonsdale St - City",
+  "terminalname" : "60003",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "5",
+  "coordinates" : {
+    "latitude" : "-37.810702",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.964417"
+  },
+  "id" : "6"
+}
+, {
+  "nbbikes" : "0",
+  "featurename" : "Bourke Street Mall - 205 Bourke St - City",
+  "terminalname" : "60004",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "11",
+  "coordinates" : {
+    "latitude" : "-37.813088",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.967437"
+  },
+  "id" : "7"
+}
+, {
+  "nbbikes" : "6",
+  "featurename" : "Melbourne Uni - Tin Alley - Carlton",
+  "terminalname" : "60005",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "12",
+  "coordinates" : {
+    "latitude" : "-37.79625",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.960858"
+  },
+  "id" : "8"
+}
+, {
+  "nbbikes" : "1",
+  "featurename" : "RMIT - Swanston St / Franklin St - City",
+  "terminalname" : "60006",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "6",
+  "coordinates" : {
+    "latitude" : "-37.807699",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.963095"
+  },
+  "id" : "9"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "St Paul's Cathedral - Swanston St / Flinders St - City",
+  "terminalname" : "60007",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "4",
+  "coordinates" : {
+    "latitude" : "-37.817189",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.967409"
+  },
+  "id" : "10"
+}
+, {
+  "nbbikes" : "25",
+  "featurename" : "MSAC - Aughtie Dve - Albert Park",
+  "terminalname" : "60008",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "2",
+  "coordinates" : {
+    "latitude" : "-37.842395",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.961868"
+  },
+  "id" : "11"
+}
+, {
+  "nbbikes" : "10",
+  "featurename" : "Fitzroy Town Hall - Moor St - Fitzroy",
+  "terminalname" : "60009",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "1",
+  "coordinates" : {
+    "latitude" : "-37.801813",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.979209"
+  },
+  "id" : "12"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "Coventry St / St Kilda Rd - Southbank",
+  "terminalname" : "60017",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "6",
+  "coordinates" : {
+    "latitude" : "-37.828887",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.970822"
+  },
+  "id" : "15"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "NAB - Harbour Esp / Bourke St - Docklands",
+  "terminalname" : "60011",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "27",
+  "coordinates" : {
+    "latitude" : "-37.818306",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.945923"
+  },
+  "id" : "16"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "Yarra's Point - Lorimer St / Yarra River - Docklands",
+  "terminalname" : "60024",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "10",
+  "coordinates" : {
+    "latitude" : "-37.823805",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.943051"
+  },
+  "id" : "17"
+}
+, {
+  "nbbikes" : "0",
+  "featurename" : "Argyle Square - Lygon St - Carlton",
+  "terminalname" : "60021",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "11",
+  "coordinates" : {
+    "latitude" : "-37.802129",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.96677"
+  },
+  "id" : "18"
+}
+, {
+  "nbbikes" : "6",
+  "featurename" : "Parliament Station - Nicholson St / Albert St - City",
+  "terminalname" : "60025",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "9",
+  "coordinates" : {
+    "latitude" : "-37.809072",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.972762"
+  },
+  "id" : "20"
+}
+, {
+  "nbbikes" : "8",
+  "featurename" : "Bridport St / Montague St - Albert Park",
+  "terminalname" : "60014",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "15",
+  "coordinates" : {
+    "latitude" : "-37.840885",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.955303"
+  },
+  "id" : "21"
+}
+, {
+  "nbbikes" : "16",
+  "featurename" : "Pickles St / Ingles St - Port Melbourne",
+  "terminalname" : "60027",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "7",
+  "coordinates" : {
+    "latitude" : "-37.835803",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.94852"
+  },
+  "id" : "22"
+}
+, {
+  "nbbikes" : "7",
+  "featurename" : "Yarra's Edge - River Esp / Yarra River - Docklands",
+  "terminalname" : "60015",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "4",
+  "coordinates" : {
+    "latitude" : "-37.824468",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.946033"
+  },
+  "id" : "23"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "North Melbourne Station - Adderley St - North Melbourne",
+  "terminalname" : "60038",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "13",
+  "coordinates" : {
+    "latitude" : "-37.807021",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.941854"
+  },
+  "id" : "24"
+}
+, {
+  "nbbikes" : "11",
+  "featurename" : "Sandridge Bridge - Southbank",
+  "terminalname" : "60026",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "15",
+  "coordinates" : {
+    "latitude" : "-37.820836",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.962266"
+  },
+  "id" : "25"
+}
+, {
+  "nbbikes" : "8",
+  "featurename" : "Beach St - Port Melbourne",
+  "terminalname" : "60029",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "30",
+  "coordinates" : {
+    "latitude" : "-37.841954",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.935296"
+  },
+  "id" : "26"
+}
+, {
+  "nbbikes" : "11",
+  "featurename" : "New Quay Prom / Harbour Esp - Docklands",
+  "terminalname" : "60028",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "16",
+  "coordinates" : {
+    "latitude" : "-37.814117",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.944081"
+  },
+  "id" : "27"
+}
+, {
+  "nbbikes" : "2",
+  "featurename" : "Queensbridge St / Yarra River - Southbank",
+  "terminalname" : "60035",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "10",
+  "coordinates" : {
+    "latitude" : "-37.821071",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.961113"
+  },
+  "id" : "28"
+}
+, {
+  "nbbikes" : "25",
+  "featurename" : "Southern Cross Station - Spencer St - City",
+  "terminalname" : "60034",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "2",
+  "coordinates" : {
+    "latitude" : "-37.818124",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.953581"
+  },
+  "id" : "29"
+}
+, {
+  "nbbikes" : "11",
+  "featurename" : "Gasworks Arts Park - Pickles St - Albert Park",
+  "terminalname" : "60023",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "0",
+  "coordinates" : {
+    "latitude" : "-37.842174",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.946051"
+  },
+  "id" : "30"
+}
+, {
+  "nbbikes" : "11",
+  "featurename" : "Cleve Gardens - Fitzroy St - St Kilda",
+  "terminalname" : "60032",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "4",
+  "coordinates" : {
+    "latitude" : "-37.861984",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.97341"
+  },
+  "id" : "31"
+}
+, {
+  "nbbikes" : "6",
+  "featurename" : "West Beach Pavilion - Beaconsfield Pde - St Kilda West",
+  "terminalname" : "60030",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "8",
+  "coordinates" : {
+    "latitude" : "-37.858553",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.969101"
+  },
+  "id" : "32"
+}
+, {
+  "nbbikes" : "1",
+  "featurename" : "Siddeley St / Seafarers Bridge - Docklands",
+  "terminalname" : "60031",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "21",
+  "coordinates" : {
+    "latitude" : "-37.823124",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.951918"
+  },
+  "id" : "33"
+}
+, {
+  "nbbikes" : "6",
+  "featurename" : "RACV - Bourke St / New Chancery Ln - City",
+  "terminalname" : "60013",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "4",
+  "coordinates" : {
+    "latitude" : "-37.815505",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.959278"
+  },
+  "id" : "34"
+}
+, {
+  "nbbikes" : "2",
+  "featurename" : "Yorkshire Brewery - Wellington St - Collingwood",
+  "terminalname" : "60033",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "5",
+  "coordinates" : {
+    "latitude" : "-37.805997",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.986953"
+  },
+  "id" : "35"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "Napier St / Victoria Pde - Fitzroy",
+  "terminalname" : "60022",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "6",
+  "coordinates" : {
+    "latitude" : "-37.808266",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.979005"
+  },
+  "id" : "36"
+}
+, {
+  "nbbikes" : "6",
+  "featurename" : "University Square - Grattan St - Carlton",
+  "terminalname" : "60045",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "9",
+  "coordinates" : {
+    "latitude" : "-37.800214",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.960313"
+  },
+  "id" : "37"
+}
+, {
+  "nbbikes" : "11",
+  "featurename" : "Aquarium - Kings Way / Flinders St - City",
+  "terminalname" : "60046",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "0",
+  "coordinates" : {
+    "latitude" : "-37.821324",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.958318"
+  },
+  "id" : "38"
+}
+, {
+  "nbbikes" : "19",
+  "featurename" : "Richmond Station - Brunton Ave - East Melbourne",
+  "terminalname" : "60020",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "0",
+  "coordinates" : {
+    "latitude" : "-37.822962",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.988507"
+  },
+  "id" : "39"
+}
+, {
+  "nbbikes" : "0",
+  "featurename" : "Rod Laver Arena - Batman Ave / Swan St - City",
+  "terminalname" : "60047",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "23",
+  "coordinates" : {
+    "latitude" : "-37.822987",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.978459"
+  },
+  "id" : "40"
+}
+, {
+  "nbbikes" : "15",
+  "featurename" : "Domain Interchange - Park St / St Kilda Rd - Melbourne",
+  "terminalname" : "60016",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "0",
+  "coordinates" : {
+    "latitude" : "-37.832396",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.971678"
+  },
+  "id" : "41"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "Kings Way / St Kilda Rd - Melbourne",
+  "terminalname" : "60018",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "21",
+  "coordinates" : {
+    "latitude" : "-37.836323",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.975162"
+  },
+  "id" : "42"
+}
+, {
+  "nbbikes" : "8",
+  "featurename" : "Spring St / Collins St - City",
+  "terminalname" : "60019",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "3",
+  "coordinates" : {
+    "latitude" : "-37.813774",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.974054"
+  },
+  "id" : "43"
+}
+, {
+  "nbbikes" : "6",
+  "featurename" : "Queens Rd / Bowen Cres - Melbourne",
+  "terminalname" : "60036",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "9",
+  "coordinates" : {
+    "latitude" : "-37.835383",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.973699"
+  },
+  "id" : "44"
+}
+, {
+  "nbbikes" : "34",
+  "featurename" : "Luna Park - Lower Esp - St Kilda",
+  "terminalname" : "60037",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "5",
+  "coordinates" : {
+    "latitude" : "-37.867068",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.976428"
+  },
+  "id" : "45"
+}
+, {
+  "nbbikes" : "2",
+  "featurename" : "South Melbourne Market - York St / Cecil St - South Melbourne",
+  "terminalname" : "60039",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "13",
+  "coordinates" : {
+    "latitude" : "-37.831475",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.957511"
+  },
+  "id" : "46"
+}
+, {
+  "nbbikes" : "4",
+  "featurename" : "VCAM - St Kilda Rd / Southbank Blvd - Southbank",
+  "terminalname" : "60040",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "6",
+  "coordinates" : {
+    "latitude" : "-37.824088",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.970085"
+  },
+  "id" : "47"
+}
+, {
+  "nbbikes" : "1",
+  "featurename" : "Museum - Rathdowne St - Carlton",
+  "terminalname" : "60041",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "13",
+  "coordinates" : {
+    "latitude" : "-37.803868",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.969609"
+  },
+  "id" : "48"
+}
+, {
+  "nbbikes" : "9",
+  "featurename" : "Jolimont Station - Wellington Pde South - East Melbourne",
+  "terminalname" : "60042",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "2",
+  "coordinates" : {
+    "latitude" : "-37.816731",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.982006"
+  },
+  "id" : "49"
+}
+, {
+  "nbbikes" : "12",
+  "featurename" : "ACCA - Sturt St - Southbank",
+  "terminalname" : "60043",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "10",
+  "coordinates" : {
+    "latitude" : "-37.826578",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.966542"
+  },
+  "id" : "50"
+}
+, {
+  "nbbikes" : "2",
+  "featurename" : "ANZ - Collins St - Docklands",
+  "terminalname" : "60044",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "17",
+  "coordinates" : {
+    "latitude" : "-37.821568",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.944488"
+  },
+  "id" : "51"
+}
+, {
+  "nbbikes" : "5",
+  "featurename" : "Flagstaff Gardens - Peel St - West Melbourne",
+  "terminalname" : "60048",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "6",
+  "coordinates" : {
+    "latitude" : "-37.809216",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.955223"
+  },
+  "id" : "52"
+}
+, {
+  "nbbikes" : "12",
+  "featurename" : "Victoria Market - Elizabeth St / Victoria St - City",
+  "terminalname" : "60049",
+  "uploaddate" : 1519845307,
+  "nbemptydoc" : "13",
+  "coordinates" : {
+    "latitude" : "-37.806091",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.959017"
+  },
+  "id" : "53"
+}
+, {
+  "nbbikes" : "8",
+  "featurename" : "Coventry St / Clarendon St - South Melbourne",
+  "terminalname" : "60050",
+  "uploaddate" : 1519845307,
+  "nbemptydoc" : "3",
+  "coordinates" : {
+    "latitude" : "-37.831776",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.960818"
+  },
+  "id" : "55"
+}
+, {
+  "nbbikes" : "14",
+  "featurename" : "Fitzroy Street - St Kilda",
+  "terminalname" : "60052",
+  "uploaddate" : 1519845307,
+  "nbemptydoc" : "17",
+  "coordinates" : {
+    "latitude" : "-37.858655",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.978818"
+  },
+  "id" : "57"
+}
+, {
+  "nbbikes" : "19",
+  "featurename" : "Plum Garland Reserve - Beaconsfield Pde - Albert Park",
+  "terminalname" : "60010",
+  "uploaddate" : 1519845306,
+  "nbemptydoc" : "0",
+  "coordinates" : {
+    "latitude" : "-37.847795",
+    "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "144.948351"
+  },
+  "id" : "14"
+}
+ ]
